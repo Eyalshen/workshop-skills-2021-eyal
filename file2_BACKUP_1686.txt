@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+file2 --> commit m-2
+=======
+file2 -- commit b2-1
+>>>>>>> 7a49415 (commit b2-1)
